@@ -19,9 +19,9 @@ Welcome to my GitHub! I'm Andrew Pham, a Tax Consultant who's transitioning into
 ### 🤝 Connect with me:
 ![](https://komarev.com/ghpvc/?username=phamand2&color=blue)
 
-[<img align="left" alt="jha-vineet69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="phamand2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
-[<img align="left" alt="jha-vineet69 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
+[<img align="left" alt="phamand2 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
 
 
@@ -62,7 +62,7 @@ Welcome to my GitHub! I'm Andrew Pham, a Tax Consultant who's transitioning into
 <img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamand2&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/></code>
 
 
-[linkedin]: www.linkedin.com/in/andrew-pham-3b5464b4
+[linkedin]: www.linkedin.com/in/andrew-pham-phamand2
 
 [gmail]: mailto:andrewpham92@gmail.com
 
