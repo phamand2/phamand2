@@ -19,9 +19,9 @@ Welcome to my GitHub! I'm Andrew Pham, a Tax Consultant who's transitioning into
 ### 🤝 Connect with me:
 ![](https://komarev.com/ghpvc/?username=phamand2&color=blue)
 
-[<img align="left" alt="phamand2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew_Pham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](www.linkedin.com/in/andrew-pham-phamand2)
 
-[<img align="left" alt="phamand2 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
+[![Gmail Badge](https://img.shields.io/badge/-andrewpham92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrewpham92@gmail.com)](mailto:andrewpham92@gmail.com)
 
 
 
@@ -57,7 +57,7 @@ Welcome to my GitHub! I'm Andrew Pham, a Tax Consultant who's transitioning into
 
 ### 🏆 Github Stats:
 
-<img alt="phamand2's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=phamand2&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
+<img alt="phamand2's Github Stats" src="https://github-readme-stats.phamand2.vercel.app/api?username=phamand2&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
 
 <img alt="Jha-Vineet69's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamand2&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/></code>
 
