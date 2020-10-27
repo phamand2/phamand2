@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm Andrew Pham, a Tax Consultant who's transitioning into
 ### 🤝 Connect with me:
 ![](https://komarev.com/ghpvc/?username=phamand2&color=blue)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Andrew_Pham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-pham-phamand2)](https://www.linkedin.com/in/andrew-pham-phamand2))
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew_Pham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-pham-phamand2)](https://www.linkedin.com/in/andrew-pham-phamand2)
 
 [![Gmail Badge](https://img.shields.io/badge/-andrewpham92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrewpham92@gmail.com)](mailto:andrewpham92@gmail.com)
 
