@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm Andrew Pham, a Tax Consultant who's transitioning into
 
 
 - 🔭 I’m currently working on my first React Project!
-- 🌱 I’m currently React Hooks.
+- 🌱 I’m currently learning React Hooks.
 - 🥅 2020 Goals: Master the back-end with database using Sequelize and Postgres.
 - ⚡ Fun fact: I love to play Disc Golf.
 
