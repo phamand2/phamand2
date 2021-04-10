@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm Andrew Pham, a Tax Consultant who's transitioning into
 
 
 
-- 🔭 I’m currently working on a Covid-19 Tracker using React!
+- 🔭 I’m currently working on a Burger Builder APP using React!
 - 🌱 I’m currently learning React.
 - 🥅 2021 Goals: Master the back-end with database using Sequelize and Postgres.
 - ⚡ Fun fact: I love to play Disc Golf.
